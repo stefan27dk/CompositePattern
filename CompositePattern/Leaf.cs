@@ -27,10 +27,10 @@ namespace CompositePattern
 
         public override void Display(int depth)
         {
-            Console.WriteLine(new string();
+            Console.WriteLine(new string('-', depth) + name);
 
-            string a = "SD":
-            a.Substring()
         }
+
+      
     }
 }
